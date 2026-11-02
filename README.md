@@ -2,12 +2,12 @@
 
   <h1>Hi there, I'm <span style="color: #C9A24B;">Ali Abbas</span> 👋</h1>
   
-  <p><b>Full Stack Web Developer | Problem Solver | Tech Enthusiast</b></p>
+  <p><b>Full Stack Web Developer | Problem Solver | Python & React Enthusiast</b></p>
   <p>📍 Lahore, Pakistan 🇵🇰</p>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Applications;Passionate+about+Clean+Code;Learning+System+Design+%26+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A623&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Applications;Python+%7C+React+%7C+Tailwind+CSS;Passionate+about+Clean+Code" alt="Typing SVG" />
   </a>
 
 </div>
@@ -19,17 +19,17 @@
 ```javascript
 const aliAbbas = {
   name: "Ali Abbas",
-  role: "Full Stack Developer",
+  role: "Software Developer",
   location: "Lahore, Pakistan",
-  skills: ["React", "JavaScript", "Tailwind CSS", "Node.js", "C++", "DSA"],
-  currentlyLearning: ["Next.js", "System Design"],
+  skills: ["Python", "React", "JavaScript", "Tailwind CSS", "C++", "DSA"],
+  currentlyLearning: ["Next.js", "Full Stack Architecture"],
   funFact: "I turn coffee into clean code ☕ ➡️ 💻"
 };
 ```
 
-* 🔭 Main modern web applications aur scalable systems par kaam karta hoon.
-* 🌱 Filhal **Next.js**, **Backend Architecture**, aur **DSA** par mazeed focus kar raha hoon.
-* 💬 Mujh se Web Development, JavaScript, aur UI/UX ke baare mein baat kar sakte hain.
+- 🔭 Main modern web applications aur utility tools build karta hoon.
+- 🌱 Filhal **Next.js**, **React**, aur **Data Structures & Algorithms** par focused hoon.
+- 💬 Mujh se Web Development aur Python projects ke baare mein baat kar sakte hain.
 
 ---
 
@@ -38,21 +38,26 @@ const aliAbbas = {
 <div align="center">
 
   <p><b>Languages & Frontend</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,cpp,python&perline=9" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,bootstrap,cpp&perline=8" alt="Languages and Frontend" />
   <br /><br />
 
-  <p><b>Backend & Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&perline=6" alt="Backend" />
-  <br /><br />
-
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=6" alt="Tools" />
+  <p><b>Backend, Databases & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" alt="Backend and Tools" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **🧮 GUI Calculator** | Python, Tkinter | Interactive desktop calculator with clean graphical user interface | [View Repo](https://github.com/alishahid123creator/GUI-Calculator) |
+| **🛍️ Noor Abaya Boutique** | React, Tailwind, Vite | Modern responsive e-commerce web app with Cart & Checkout | [View Details](#) |
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alishahid123creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali's GitHub Stats" width="48%" />
@@ -62,5 +67,5 @@ const aliAbbas = {
 ---
 
 <div align="center">
-  <p><i>⭐ Feel free to explore my repositories and connect with me!</i></p>
+  <p><i>⭐ Thanks for visiting! Feel free to connect and explore my code.</i></p>
 </div>
